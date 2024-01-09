@@ -14,6 +14,13 @@ Was wäre ein geeignetes Projekt würd diese LP3?
 
 Heute habe ich (50-100 Wörter)
 
-[] erstes Arbeitspaket 
+# 16.1 und 23.1.2024
+
+- [] Erstes Arbeitspaket
+- [] ...
+- [] Viertes AP
+
+Heute am 16.1 habe ich... (50-100 Wörter)
+
 
 
