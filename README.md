@@ -4,9 +4,8 @@ Cezar Cranganu-Cretu
 9.1.2024 bis 30.1.2024 (☃️ Sportferien)
 
 Grob-Planung
-Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-Was wäre ein geeignetes Projekt würd diese LP3?
+Ich hatte beim Modul 319 die Note 5.5. Natürich habe ich vile dafür geübt. Das problem ist das ich nicht mehr sehr viel darüber im Kopf habe.
+Beim Lernmodul habe ich fast die ganze Zeit damit verbracht an einem Projekt zu arbeiten die für unsere deutsch Lehrerin gedacht war. Kurz vor Weihnachten habe ich begonnen Teile von einem Hangman-Game zu programmieren. Ich glaube da bin ich ein Schritt zu weit gegeangen weil ich mich damit sehr überfordert habe. Mit meinem Know-How fiel es mir schwer es zu programmieren. 
 9.1.2024
 ✍️ Heute habe ich... (50-100 Wörter)
 
@@ -22,14 +21,10 @@ Heute habe ich (50-100 Wörter)
 
 | Testfallnummer| Eigabe        | Ausgabe        | Erfüllt?      |
 | ------------- | ------------- |----------------|---------------|
-|               |   |          
-|   |   |
+|               |               |                |               |
+|               |               |                |               |
 
 
-Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
-1				
-...				
-4
 
 Heute am 16.1 habe ich... (50-100 Wörter)
 
@@ -40,7 +35,10 @@ Heute am 16.1 habe ich... (50-100 Wörter)
 - [ ] Achtes AP
 
 
-
+| Testfallnummer| Eigabe        | Ausgabe        | Erfüllt?      |
+| ------------- | ------------- |----------------|---------------|
+|               |               |                |               |
+|               |               |                |               |
 
 
 Heute am 23.1 habe ich... (50-100 Wörter)
