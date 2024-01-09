@@ -25,7 +25,6 @@ estfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 23.1.2024
 [ ] Fünftes AP
 [ ] ...
-
 [ ] Achtes AP
 
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
