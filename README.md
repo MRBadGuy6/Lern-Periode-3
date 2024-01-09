@@ -20,6 +20,11 @@ Heute habe ich (50-100 Wörter)
 - [ ] ...
 - [ ] Viertes AP
 
+| Testfallnummer  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 1				
@@ -35,10 +40,8 @@ Heute am 16.1 habe ich... (50-100 Wörter)
 - [ ] Achtes AP
 
 
-Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
-5				
-...				
-8
+
+
 
 Heute am 23.1 habe ich... (50-100 Wörter)
 
