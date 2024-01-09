@@ -20,10 +20,10 @@ Heute habe ich (50-100 Wörter)
 - [ ] ...
 - [ ] Viertes AP
 
-| Testfallnummer  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Testfallnummer| Eigabe        | Ausgabe        | Erfüllt?      |
+| ------------- | ------------- |----------------|---------------|
+|               |   |          
+|   |   |
 
 
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
