@@ -15,19 +15,19 @@ Aus diesem Grund habe ich mich entschieden einen Gang runterzuschalten und etwas
 Heute habe ich nach Ideen gesucht was genau ich programmieren sollte. Eigeentlich wollte ich Hangaman programmieren. Aber mit meinem Wissensstand ist das einfach nicht möglich. Ein Zahl rate Spiel ist viel angenehmer. Ich habe mir die Theorie von Modul 319 nochmal angesehen um alles aufzufrischen. Anschlissend habe ich begonnen ein Programm zu schreiben wo man eine Zahl von 1-100 erraten kann. Das Programm kann noch nicht sagen ob die Zahl höher oder tiefer ist. Das Programm ist noch nicht fertig.  
 # 16.1 und 23.1.2024
 
-- [ ] Programm fertig schreiben wo man eine Zahl erraten kann 
+- [x] Programm fertig schreiben wo man eine Zahl erraten kann 
 - [ ] Programm so schreiben das es nicht erlaubt ist ein Wort einzugeben 
 - [ ] Versuche einbauen 
-- [ ] Programm testen 
+- [x] Programm testen 
 
 | Testfallnummer| Eigabe        | Ausgabe        | Erfüllt?      |
 | ------------- | ------------- |----------------|---------------|
+| 1              |  Zahl             |    Daneben            |   Ja             |
 |               |               |                |               |
-|               |               |                |               |
 
 
 
-Heute am 16.1 habe ich... (50-100 Wörter)
+Heute am 16.1 habe ich begonne an meinen Projekt zu arbeiten. Es hat riesen Spass gemacht und hat mir auch sehr geholfen weil ich es wie eine Repetition angesehen habe. Mir ist es gelungen Ein Programm zu schreiben wo man eine Zahl erraten muss. Ich habe mir sehr viel Zeit genommen, aber bin nicht gerade sehr weit gekommen. Noch muss ich herausfinden wie man Versuche einbaut weil das für mich Neuland ist.  (50-100 Wörter)
 
 # 23.1.2024
 
