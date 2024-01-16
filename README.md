@@ -10,13 +10,9 @@ Beim Lernmodul habe ich fast die ganze Zeit damit verbracht an einem Projekt zu 
 
 Aus diesem Grund habe ich mich entschieden einen Gang runterzuschalten und etwas einfacheres zu programmieren. Ich werde ein Zahl rate spiel programmieren. Das sollte ich hinkriegen. Ich sehe es als eine Art repetition. 
 
-9.1.2024
-✍️ Heute habe ich nach Ideen gesucht was genau ich programmieren sollte. Eigeentlich wollte ich Hangaman programmieren. Aber mit meinem Wissensstand ist das einfach nicht möglich. Ein Zahl rate Spiel ist viel angenehmer. Ich habe mir die Theorie von Modul 319 nochmal angesehen um alles aufzufrischen. Anschlissend habe ich begonnen ein Programm zu schreiben wo man eine Zahl von 1-100 erraten kann. Das Programm kann noch nicht sagen ob die Zahl höher oder tiefer ist. Das Programm ist noch nicht fertig.  (50-100 Wörter)
-
 # 9.1.24 
 
-Heute habe ich (50-100 Wörter)
-
+Heute habe ich nach Ideen gesucht was genau ich programmieren sollte. Eigeentlich wollte ich Hangaman programmieren. Aber mit meinem Wissensstand ist das einfach nicht möglich. Ein Zahl rate Spiel ist viel angenehmer. Ich habe mir die Theorie von Modul 319 nochmal angesehen um alles aufzufrischen. Anschlissend habe ich begonnen ein Programm zu schreiben wo man eine Zahl von 1-100 erraten kann. Das Programm kann noch nicht sagen ob die Zahl höher oder tiefer ist. Das Programm ist noch nicht fertig.  
 # 16.1 und 23.1.2024
 
 - [ ] Programm fertig schreiben wo man eine Zahl erraten kann 
