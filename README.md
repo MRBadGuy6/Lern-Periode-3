@@ -47,7 +47,7 @@ Heute am 23.1 habe ich... (50-100 Wörter)
 
 # 30.1.2024 
 
-Heute am 23.1 habe ich... (50-100 Wörter)
+Heute am 30.1 habe ich... (50-100 Wörter)
 
 # Reflexion
 
