@@ -23,7 +23,7 @@ Heute habe ich nach Ideen gesucht was genau ich programmieren sollte. Eigeentlic
 | Testfallnummer| Eigabe        | Ausgabe        | Erfüllt?      |
 | ------------- | ------------- |----------------|---------------|
 | 1              |  Zahl             |    Daneben            |   Ja             |
-|               |               |                |               |
+|  4             | Zahl              |    Daneben            |   Ja            |
 
 
 
