@@ -16,7 +16,7 @@ Heute habe ich nach Ideen gesucht was genau ich programmieren sollte. Eigeentlic
 # 16.1 und 23.1.2024
 
 - [x] Programm fertig schreiben wo man eine Zahl erraten kann 
-- [ ] Programm so schreiben das es nicht erlaubt ist ein Wort einzugeben 
+- [x] Programm so schreiben das es nicht erlaubt ist ein Wort einzugeben 
 - [ ] Versuche einbauen 
 - [x] Programm testen 
 
@@ -31,19 +31,19 @@ Heute am 16.1 habe ich begonne an meinen Projekt zu arbeiten. Es hat riesen Spas
 
 # 23.1.2024
 
-- [ ] Programm soll angeben ob die Zahl höher oder Tiefer ist 
-- [ ] Motivationssprüche einbauen
-- [ ] Programm Testen
+- [x] Programm soll angeben ob die Zahl höher oder Tiefer ist 
+- [x] Motivationssprüche einbauen
+- [x] Programm Testen
 - [ ] Bugs Fixieren 
 
 
 | Testfallnummer| Eigabe        | Ausgabe        | Erfüllt?      |
 | ------------- | ------------- |----------------|---------------|
-|               |               |                |               |
-|               |               |                |               |
+|   1            |  Zahl             |     Höher/Tiefer           |      Ja         |
+| 2              |    Zahl           |   Motivationssprüche             |       Ja        |
 
 
-Heute am 23.1 habe ich... (50-100 Wörter)
+Heute am 23.1-28.1 habe ich an meinem Spiel gearbeit. Weil mein Laptop einen Phyisischen schaden hat musste ich das spiel von vorne Programmieren da ich es nicht richtig abgespeichert habe. Momentan arbeite ich auf dem Familien Laptop und soweit funktioniert alles Prima. Das Problem ist nur das ich unter Zeitdruck abreiten musste da in der letzten Woche sehr viel los war. (50-100 Wörter)
 
 # 30.1.2024 
 
