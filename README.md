@@ -47,11 +47,10 @@ Heute am 23.1-28.1 habe ich an meinem Spiel gearbeit. Weil mein Laptop einen Phy
 
 # 30.1.2024 
 
-Heute am 30.1 habe ich... (50-100 Wörter)
+Heute am 30.1 habe ich mein Programm noch versucht zu verfeinern was sehr gut funktioniert hat. Auch habe ich noch das Spiel ein paar mal getestet um herauszufinden ob es tatsächlich funktioniert. (50-100 Wörter)
 
 # Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+Man könnte diese Lern-Periode mit eine Achterbahn faht vergleichen. Ich musssagen das ich in letzter Zeit sehr viel pech hatte. Durch einen Physischen Schaden an meinem Laptop musste ich es in die Reperatur schicken. Das bedeutet das ich den alten Code verloren habe. Trotzdem habe ich nicht aufgegeben und habe alles neu programmiert. Nach all dem kann ich sagen das das Spiel eine gute Repetition war und es einen riesen Spass gemacht hat zu programmieren. In der Zukunft werde ich versuchen öfters zu repetieren. 
 
-Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 9-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
-
+Welche Lernperiode angenehmer war ist eine sehr schwere Frage, da ich beide sehr interessant fand. Es ist immer eine gut Abwechslung mal von zu Hause aus oder von der Schule zu Arbeiten. Mir würde es sehr freuen wenn beides ausbalanciert ist.
